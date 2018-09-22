@@ -7,6 +7,6 @@ Given - ให้อะไรมาบ้าง
 When - ได้มายังไง
 Then - ได้อะไรมาบ้าง
 
-I Love you
-I need you 
+Love you so much
+Need you every time!!
 Want you Yeh!!!!!!!!
