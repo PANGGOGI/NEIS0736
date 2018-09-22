@@ -7,11 +7,6 @@ Given - ให้อะไรมาบ้าง
 When - ได้มายังไง
 Then - ได้อะไรมาบ้าง
 
-<<<<<<< HEAD
-I Love you  me to
-I need you NEIS
-=======
 Love you so much
 Need you every time!!
->>>>>>> a8f8c45a95906cde37dfda31d0ed428bb007a503
 Want you Yeh!!!!!!!!
