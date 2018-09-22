@@ -1,0 +1,12 @@
+Software Secure
+---
+
+PCI SS ใช้ในการ
+
+Given - ให้อะไรมาบ้าง
+When - ยังไง
+Then - ได้อะไร
+
+Given my user account, and I can login into System
+When I logout on system by click logout
+Then The system redirect to login page and Cannot redirect page via url without Authentication.
