@@ -1,11 +1,11 @@
-Software Secure
+﻿Software Secure
 ---
 
 PCI SS ใช้ในการ
 
 Given - ให้อะไรมาบ้าง
-When - ยังไง
-Then - ได้อะไร
+When - ได้มายังไง
+Then - ได้อะไรมาบ้าง
 
 Given my user account, and I can login into System
 When I logout on system by click logout
